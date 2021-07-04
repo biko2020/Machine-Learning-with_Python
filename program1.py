@@ -9,7 +9,7 @@ def generateData(n):
     
 	seed(1)
 	min=0
-	max=11
+	max=11 # nombre d enregistrement
 	
 	dataset=[]
 	
