@@ -41,7 +41,14 @@ plt.plot([0,g(bias,w1,w2,0)],[0,g(bias,w1,w2,5)])
 plt.show() # affiche la figure a l'ecran
    
 
+<<<<<<< HEAD
+if __name__ ==  "__main__":
+
+   plotData(sys.dataset)
+  
+=======
 if __name__ ==  "__main__ ":
 
    plotData(sys.dataset)
   
+>>>>>>> 540ee1369afc83311a2a0fe6457df46f046195ea
